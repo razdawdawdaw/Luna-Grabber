@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: raz
 about: Create a report to help us improve
 title: ''
 labels: bug
@@ -8,7 +8,7 @@ assignees: Smug246
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+whenever i test it and open it it just says" invalid url none no scheme applied" when i did put a working web hook and everything
 
 **To Reproduce**
 Steps to reproduce the behavior:
